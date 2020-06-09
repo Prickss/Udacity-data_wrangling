@@ -3,7 +3,7 @@
 ### Udacity - Fundamentos de Data Science II
 ##### Projeto 2 - Data Wrangling
 
-Esse projeto é parte do curso de Fundamentos de Data Science II realizado em Abril/2018 e consiste na coleta de 3 arquivos de diferentes fontes, limpeza, organização e  uma breve análise dos dados coletados.
+Esse projeto é parte do curso de Fundamentos de Data Science II realizado em Abril/2019 e consiste na coleta de 3 arquivos de diferentes fontes, limpeza, organização e  uma breve análise dos dados coletados.
 
 ### Fontes
 -   **`image_predictions.tsv`**: Acessado através de um link fornecido pela Udacity e baixado com a biblioteca requests do Python;
